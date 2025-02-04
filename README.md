@@ -12,6 +12,10 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+DESCRIPTION:
+
+The "DigiYatra"app, designed in "Figma", features a modern dark-themed UI with a minimalist and user-friendly design, catering to flight passengers by offering digital boarding pass management, user registration, and login functionalities. The "User Registration Screen" includes fields for 'username, email, password, and confirmation', along with a 'Create button' and a login prompt for existing users. The "Login Screen" provides fields for username/email and password, with a Done button for quick access. The Boarding Pass Overview Screen displays flight details, departure and arrival locations (NGP to PUNE), airline (Air India Express), passenger name, flight number, PNR, boarding time, gate, zone, seat number, and a QR code for scanning, with an option to add a new boarding pass. The Detailed Boarding Pass Screen enlarges the QR code for easy scanning while retaining essential flight details, featuring a Back button for navigation. The app employs a dark mode interface, clear visual hierarchy, consistent branding, and intuitive icons, ensuring an efficient and seamless travel experience with a paperless approach to flight boarding.
+
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/569b416c-4576-462d-bb8e-787ca2ed00f5)
